@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Sharma</h1>
 <h3 align="center">Meticulous | Problem Solver | Results-oriented</h3>
 
-<p style="text-align:center;">
-<img  src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611b765c9dc36011b5644e83b4ce722d5f32781d989&rid=giphy.gif&ct=g"  />
-</p>
+<p style="text-align:center;"><img  src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611b765c9dc36011b5644e83b4ce722d5f32781d989&rid=giphy.gif&ct=g"  /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syash7202&label=Profile%20views&color=0e75b6&style=flat" alt="syash7202" /> </p>
 - 🌱 I’m currently learning **Data Structures & Algorithms**
