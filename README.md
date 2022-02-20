@@ -4,6 +4,7 @@
 <p align="center" ><img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47gsykfcf5ngqzfv8cqesq6q4ib8kxe0cjvva6ip84&rid=giphy.gif&ct=g" alt=" "  ></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syash7202&label=Profile%20views&color=0e75b6&style=flat" alt="syash7202" /> </p>
+
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
 - 📫 How to reach me **workspacesyash7202@gmail.com**
