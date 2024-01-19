@@ -2,26 +2,32 @@
 
 
 
-
 # 👨‍💻 Coder's Chronicle
 
-I am a passionate and results-driven individual with a background in software development, cloud computing, and DevOps. As a Software Development Engineer, I thrive on creating innovative solutions and transforming ideas into robust, scalable applications. My journey in technology has equipped me with a strong foundation in programming languages like JavaScript, Node.js, and Python, along with expertise in cloud platforms such as AWS. I am dedicated to continuous learning, staying current with industry trends, and exploring emerging technologies.
+Hello! 👋 I'm an avid tech aficionado based in India. My passion lies in the intricate world of software development and cloud computing, particularly relishing the challenges of DevOps. Over time, I've fine-tuned my skills, finding joy in creating solutions that not only meet expectations but also push the boundaries of what's possible.
 
-# :wave: Connect
+What fuels my journey is an unyielding desire to learn and embrace emerging technologies. Adaptable and results-oriented, I've successfully navigated diverse tech landscapes, delivering impactful outcomes. As I embark on new endeavors, I'm eager to contribute my expertise and explore fresh opportunities in the dynamic tech ecosystem.
+
+Rooted in India's rich cultural tapestry, I bring a robust work ethic and a collaborative mindset to the table. Looking forward, I'm excited to connect with fellow enthusiasts and innovative companies. Let's not just keep pace with technology; let's shape its future together! 🚀💻
+
+<br>
+
+# :wave: Let's Connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:workspacesyash7202@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/syash7202/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syash7202/)
 
+<br>
+
 # :trident: Thought of the day
 
-<center>
+<p align="center">
+<a href="https://github.com/syash7202"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha">
 
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)
 
-</center>
 
-# </>💻 Technologies of Interest
+# 💻 Technologies of Interest
 
 ## ✍🏻 Languages
 
@@ -53,6 +59,8 @@ I am a passionate and results-driven individual with a background in software de
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
+<br>
+
 # 🎯 My Github Stats
 
 <p align="center">
@@ -62,27 +70,23 @@ I am a passionate and results-driven individual with a background in software de
 <!--STATSGRAPH : https://github.com/anuraghazra/github-readme-stats -->
 
 <p align="center">
-<img src="https://github-readme-stats-hqxszzea3-trinib.vercel.app/api?username=syash7202&show_icons=true&theme=merko&border_color=599200">
+<img src="https://github-readme-stats-hqxszzea3-trinib.vercel.app/api?username=syash7202&show_icons=true&theme=merko&">
 
 <!--STREAKSTATSGRAPH : https://github.com/denvercoder1/github-readme-streak-stats -->
 <p align="center">
-<img src="https://github-readme-streak-stats-fyclg7hvg-trinib.vercel.app/?user=syash7202&theme=merko&border=599200">
+<img src="https://github-readme-streak-stats-fyclg7hvg-trinib.vercel.app/?user=syash7202&theme=merko">
 
-<!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+<!--📙LANGUAGES / WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt"><img src="https://github-readme-stats-trinib.vercel.app/api/top-langs/?username=syash7202&theme=merko&layout=compact&border_color=599200&langs_count=6">
+<a href="https://github.com/syash7202"><img src="https://github-readme-stats-trinib.vercel.app/api/top-langs/?username=syash7202&theme=merko&layout=compact&border_color=599200&langs_count=6">
 
-<!-- 🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/
-<p align="center">
-<img src="https://i.imgur.com/x1KbuCq.gif" width="700"> -->
+<br>
 
 # 🤭 Trying to be funny
 
-<center>
-  
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=omni)
+<p align="center">
+<a href="https://github.com/syash7202"><img src="https://readme-jokes.vercel.app/api?hideBorder&theme=omni">
 
-</center>
 
 # 🤝 Thanks for stopping by!
 
