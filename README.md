@@ -1,5 +1,8 @@
 ![wave](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yash%20Sharma&fontSize=95&animation=fadeIn&fontAlignY=38&desc=Meticulous%20|%20Problem%20Solver%20|%20Results-oriented&descAlignY=55&descAlign=62)
 
+
+![](https://komarev.com/ghpvc/?username=your-github-syash7202&abbreviated=true&color=blueviolet)
+
 # 👨‍💻 Coder's Chronicle
 
 I am a passionate and results-driven individual with a background in software development, cloud computing, and DevOps. As a Software Development Engineer, I thrive on creating innovative solutions and transforming ideas into robust, scalable applications. My journey in technology has equipped me with a strong foundation in programming languages like JavaScript, Node.js, and Python, along with expertise in cloud platforms such as AWS. I am dedicated to continuous learning, staying current with industry trends, and exploring emerging technologies.
