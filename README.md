@@ -87,10 +87,19 @@ Rooted in India's rich cultural tapestry, I bring a robust work ethic and a coll
 
 <br>
 
+# 💠 Latest Work :  [![All GitHub Repositories](https://img.shields.io/badge/My%20GitHub%20Repositories-See%20them%20all-black?style=for-the-badge&logo=github)](https://github.com/syash7202?tab=repositories)
+
+<p align="center">
+<a href="https://github.com/syash7202/Introduction-to-Cloud-Computing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=syash7202&repo=Introduction-to-Cloud-Computing&theme=merko"> 
+<a href="https://github.com/syash7202/Contact-Management-Backend"><img margin="10px" src="https://github-readme-stats.vercel.app/api/pin/?username=syash7202&repo=Contact-Management-Backend&theme=merko&">
+
+<br>
+<br>
+
 # 🤭 Trying to be funny
 
 <p align="center">
-<a href="https://github.com/syash7202"><img src="https://readme-jokes.vercel.app/api?hideBorder&theme=omni">
+<a href="https://github.com/syash7202"><img width=70% src="https://readme-jokes.vercel.app/api?hideBorder&theme=omni">
 
 
 # 🤝 Thanks for stopping by!
