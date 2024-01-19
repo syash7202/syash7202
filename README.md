@@ -1,16 +1,16 @@
 ![wave](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yash%20Sharma&fontSize=95&animation=fadeIn&fontAlignY=38&desc=Meticulous%20|%20Problem%20Solver%20|%20Results-oriented&descAlignY=55&descAlign=62)
 
-## 👨‍💻 Coder's Chronicle
+# 👨‍💻 Coder's Chronicle
 
 I am a passionate and results-driven individual with a background in software development, cloud computing, and DevOps. As a Software Development Engineer, I thrive on creating innovative solutions and transforming ideas into robust, scalable applications. My journey in technology has equipped me with a strong foundation in programming languages like JavaScript, Node.js, and Python, along with expertise in cloud platforms such as AWS. I am dedicated to continuous learning, staying current with industry trends, and exploring emerging technologies.
 
-## :wave: Connect
+# :wave: Connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:workspacesyash7202@gmail.com)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-## :trident: Thought of the day
+# :trident: Thought of the day
 
 <center>
 
@@ -18,9 +18,9 @@ I am a passionate and results-driven individual with a background in software de
 
 </center>
 
-## </>💻 Technologies of Interest
+# </>💻 Technologies of Interest
 
-### ✍🏻 Languages
+## ✍🏻 Languages
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -29,18 +29,18 @@ I am a passionate and results-driven individual with a background in software de
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🧩 Frameworks
+## 🧩 Frameworks
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### 🛢 Database
+## 🛢 Database
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### ⚙️ Tools
+## ⚙️ Tools
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -50,7 +50,7 @@ I am a passionate and results-driven individual with a background in software de
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
-## 🎯 My Github Stats
+# 🎯 My Github Stats
 
 <p align="center">
 <!--ACTIVITYGRAPH : https://github.com/Ashutosh00710/github-readme-activity-graph -->
@@ -73,7 +73,7 @@ I am a passionate and results-driven individual with a background in software de
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="700"> -->
 
-## 🤭 Trying to be funny
+# 🤭 Trying to be funny
 
 <center>
 
@@ -81,7 +81,7 @@ I am a passionate and results-driven individual with a background in software de
 
 </center>
 
-## 🤝 Thanks for stopping by!
+# 🤝 Thanks for stopping by!
 
 Thanks for visiting my GitHub profile 🙎🏻‍♂️, I hope to see you here soon! ❣︎
 <br>
