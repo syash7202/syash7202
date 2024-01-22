@@ -1,5 +1,10 @@
 ![wave](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yash%20Sharma&fontSize=95&animation=fadeIn&fontAlignY=38&desc=Meticulous%20|%20Problem%20Solver%20|%20Results-oriented&descAlignY=55&descAlign=62)
 
+<div align="right">
+  
+![](https://komarev.com/ghpvc/?username=your-github-syash7202&abbreviated=true&color=blueviolet)
+
+</div>
 
 
 # 👨‍💻 Coder's Chronicle
@@ -105,5 +110,4 @@ Rooted in India's rich cultural tapestry, I bring a robust work ethic and a coll
 # 🤝 Thanks for stopping by!
 
 Thanks for visiting my GitHub profile 🙎🏻‍♂️, I hope to see you here soon! ❣︎ 
-![](https://komarev.com/ghpvc/?username=your-github-syash7202&abbreviated=true&color=blueviolet)
 <br>
