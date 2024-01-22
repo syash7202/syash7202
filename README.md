@@ -84,7 +84,9 @@ Rooted in India's rich cultural tapestry, I bring a robust work ethic and a coll
 
 <!--STREAKSTATSGRAPH : https://github.com/denvercoder1/github-readme-streak-stats -->
 <p align="center">
-<img src="https://github-readme-streak-stats-fyclg7hvg-trinib.vercel.app/?user=syash7202&theme=merko">
+<!-- <img src="https://github-readme-streak-stats-fyclg7hvg-trinib.vercel.app/?user=syash7202&theme=merko"> -->
+<img src="https://streak-stats.demolab.com?user=syash7202&theme=merko">
+
 
 <!--📙LANGUAGES / WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
